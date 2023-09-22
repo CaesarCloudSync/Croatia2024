@@ -1,0 +1,46 @@
+{
+    "alicante_bookings": [
+        {
+            "city": "Alicante",
+            "title": "Villa Doqueve",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Alicante",
+            "price": 1654.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1984.8,
+            "booking": "1 week, 10 adults",
+            "distance": "20.9 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 8.3
+        },
+        {
+            "city": "Alicante",
+            "title": "10-46-1- \u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0432 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0435 \u0434\u043b\u044f 4 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0432 \u0410\u043b\u0438\u043a\u0430\u043d\u0442\u0435",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Alicante",
+            "price": 854.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1024.8,
+            "booking": "1 week, 10 adults",
+            "distance": "0.8 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 4.7
+        },
+        {
+            "city": "Alicante",
+            "title": "Carrer Abad Fern\u00e1ndez Helguera",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Alicante",
+            "price": 1403.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1683.6,
+            "booking": "1 week, 10 adults",
+            "distance": "1.8 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 9.2
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "zagreb_bookings": [
+        {
+            "city": "Zagreb",
+            "title": "Lake house",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Jarun, Zagreb",
+            "price": 1009.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1210.8,
+            "booking": "1 week, 10 adults",
+            "distance": "3.1 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 9.1
+        },
+        {
+            "city": "Zagreb",
+            "title": "Bonus Apartments",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Zagreb",
+            "price": 1585.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1902.0,
+            "booking": "1 week, 10 adults",
+            "distance": "2 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 8.0
+        },
+        {
+            "city": "Zagreb",
+            "title": "Hostel Bureau",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Lower Town, Zagreb",
+            "price": 1329.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1594.8,
+            "booking": "1 week, 10 adults",
+            "distance": "500 yards from centre",
+            "room": "Recommended for your group",
+            "rating": 9.1
+        },
+        {
+            "city": "Zagreb",
+            "title": "M17 Heritage Apartments",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Upper Town \u2013 Medvescak, Zagreb",
+            "price": 1558.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1869.6,
+            "booking": "1 week, 10 adults",
+            "distance": "0.3 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 8.7
+        },
+        {
+            "city": "Zagreb",
+            "title": "Apartments NOEMIE",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Zagreb",
+            "price": 1412.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1694.3999999999999,
+            "booking": "1 week, 10 adults",
+            "distance": "3.1 miles from centre",
+            "room": "Recommended for your group",
+            "rating": 9.3
+        },
+        {
+            "city": "Zagreb",
+            "title": "Olimp apartments",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Lower Town, Zagreb",
+            "price": 1473.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1767.6,
+            "booking": "1 week, 10 adults",
+            "distance": "0.8 miles from centre",
+            "room": "Recommended for your group"
+        },
+        {
+            "city": "Zagreb",
+            "title": "Apartments First Choice Centar",
+            "checkin_date": "2024-8-01",
+            "checkout_date": "2024-8-08",
+            "address": "Lower Town, Zagreb",
+            "price": 1436.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1723.2,
+            "booking": "1 week, 10 adults",
+            "distance": "0.8 miles from centre",
+            "room": "Recommended for your group"
+        }
+    ]
+}

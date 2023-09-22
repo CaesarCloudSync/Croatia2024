@@ -1,0 +1,18 @@
+{
+    "split_bookings": [
+        {
+            "city": "Split",
+            "title": "Apartments Tomi\u0107",
+            "checkin_date": "2024-8-15",
+            "checkout_date": "2024-8-22",
+            "address": "Znjan, Split",
+            "price": 1505.0,
+            "assumed_vat": "20.0%",
+            "assumed_final_price": 1806.0,
+            "booking": "1 week, 10 adults",
+            "distance": "2.9 miles from centre",
+            "room": "Recommended for your group",
+            "location": "https://www.booking.com/hotel/hr/apartments-tomic-split1.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4AQfIAQzYAQHoAQH4AQKIAgGoAgO4AvTIm_IFwAIB&aid=304142&ucfs=1&arphpl=1&checkin=2024-08-15&checkout=2024-08-22&group_adults=10&req_adults=10&no_rooms=5&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=65fb01d7e9d40017&srepoch=1693527345&all_sr_blocks=455714003_373949555_6_0_0%2C455714002_373949555_4_0_0&highlighted_blocks=455714003_373949555_6_0_0%2C455714002_373949555_4_0_0&matching_block_id=455714003_373949555_6_0_0&sr_pri_blocks=455714003_373949555_6_0_0__103120%2C455714002_373949555_4_0_0__72160&from=searchresults#hotelTmpl"
+        }
+    ]
+}
